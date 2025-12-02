@@ -1,6 +1,7 @@
 # 📘 README -- Flutter Pokédex App
 
 ## 🐱‍👤 Descripción del proyecto
+![Imagen_1_FlutterPokeApp jpeg](https://github.com/user-attachments/assets/8eada7ed-90df-4ea6-b832-6029085c1091) ![Imagen_2_FlutterPokeApp](https://github.com/user-attachments/assets/4ac1b980-b5e6-493b-9083-b42b33c63ae1)
 
 Esta es una aplicación Flutter que muestra una lista de Pokémon
 obtenidos desde la **PokéAPI**.\
@@ -64,3 +65,4 @@ dependencies:
 ✔ Consumo de API\
 ✔ Conversión JSON a modelos\
 ✔ UI simple
+
